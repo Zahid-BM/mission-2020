@@ -2,7 +2,7 @@ body{
     /* google-fonts CSS rule */
     font-family: 'Poppins', sans-serif;
     margin: 0;
-    background-image: linear-gradient(#FED1EF, #D9D7F1);
+    background-image: linear-gradient(#E7FBBE, #F4DFBA);
 }
 /* ********************* 1st part CSS styling statrs ************************ */
 .double-div{
@@ -153,6 +153,6 @@ font-weight: normal;
      font-size: 14px;
 }
 .footer-span{
-    color: #6998AB;
+    color: #9A0680;
 }
 /* ********************* footer part CSS styling ends ************************ */
