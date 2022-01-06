@@ -60,17 +60,17 @@ h2{
 }
 .three-box{
     display: flex;
-    padding:0 200px;
+    padding:0 100px;
     
    
 }
 
 .three-box img{
-    width: 80%;
+    width: 60%;
 }
 .box{
-    padding-left: 15px;
-    margin: 2%;
+    padding: 0 25px;
+    margin: 10px;
     border-radius: 20px;
     width: 100%;
 }
