@@ -62,18 +62,20 @@ h2{
     display: flex;
     padding:0 100px;
     
+    
    
 }
 
 .three-box img{
-    width: 60%;
+    width: 45%;
 }
 .box{
     padding: 0 25px;
     margin: 10px;
     border-radius: 20px;
-    width: 100%;
+    width: 90%;
 }
+
 .mission{
     background-color: rgba(79, 157, 166, 0.1);
 
