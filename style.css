@@ -8,19 +8,22 @@ body{
    
 }
 .half-width{
-    padding-left: 120px;
+    padding-left: 130px;
+    
 }
 .half-width img{
 width: 70%; 
 }
 h1{
     color: #414040;
-    font-size: 50px;
+    font-size: 65px;
     font-family: Yeseva One;
     border-image: linear-gradient(#FF5959, #FF5959);
     border-left: 5px solid;
     border-image-slice: 1;
     padding-left: 15px;
+    margin-top: 140px;
+    font-weight: 600;
  
 }
 .h1-span{
@@ -29,6 +32,7 @@ h1{
 }
 p{
     color: #3E3E3E;
+    font-size: 18px;
 }
 .button{
     text-decoration: none;
@@ -36,4 +40,5 @@ p{
     background-color:#FF5959;
     padding: 10px 40px;
     border-radius: 5px;
+    
 }
