@@ -58,7 +58,7 @@ p{
 h2{
     font-family: Poppins;
     font-style: normal;
-    font-weight: bold;
+    font-weight: 600;
     font-size: 48px;
     color: #13103A;
 }
@@ -91,7 +91,13 @@ h2{
 
 /* ********************* 2nd part CSS styling ends ************************ */
 
-
-.develop{
-    padding:0 300px 0 0;
+/* ********************* 3rd part CSS styling starts ************************ */
+.padding-h2{
+    padding-left: 0;
+    padding-right: 5%;
+}
+.double-div h2{
+    padding-right: 52%;
+    font-size: 38px;
+    font-weight: 800;
 }
