@@ -48,6 +48,10 @@ p{
 
 /* ********************* 2nd part CSS styling statrs ************************ */
 
+.tripple-div{
+    margin-bottom: 80px;
+}
+
 .tripple-div h2{
     text-align: center;
 }
@@ -61,9 +65,7 @@ h2{
 .three-box{
     display: flex;
     padding:0 100px;
-    
-    
-   
+
 }
 
 .three-box img{
@@ -85,4 +87,11 @@ h2{
 }
 .goal{
     background-color:  #FFF4D6;;
+} 
+
+/* ********************* 2nd part CSS styling ends ************************ */
+
+
+.develop{
+    padding:0 300px 0 0;
 }
