@@ -2,6 +2,7 @@ body{
     /* google-fonts CSS rule */
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    background-image: linear-gradient(#FED1EF, #D9D7F1);
 }
 /* ********************* 1st part CSS styling statrs ************************ */
 .double-div{
@@ -20,7 +21,7 @@ h1{
     color: #414040;
     font-size: 65px;
     font-family: Yeseva One;
-    border-image: linear-gradient(#FF5959, #FF5959);
+    border-image: linear-gradient(#D77FA1, #35589A);
     border-left: 5px solid;
     border-image-slice: 1;
     padding-left: 15px;
@@ -29,7 +30,7 @@ h1{
  
 }
 .color-span{
-    color: #FFAD5A;
+    color: #F2789F;
     
 }
 p{
@@ -39,7 +40,7 @@ p{
 .button{
     text-decoration: none;
     color: white;
-    background-color:#FF5959;
+    background-color:#B958A5;
     padding: 10px 40px;
     border-radius: 5px;
     
@@ -47,7 +48,7 @@ p{
 
 /* ********************* 1st part CSS styling ends ************************ */
 
-/* ********************* 2nd part CSS styling statrs ************************ */
+/* ********************* 2nd and bonus part CSS styling statrs ************************ */
 
 .tripple-div{
     margin-bottom: 80px;
@@ -62,6 +63,9 @@ h2{
     font-weight: 600;
     font-size: 48px;
     color: #13103A;
+}
+h3{
+    color: #370665;
 }
 .three-box{
     display: flex;
@@ -80,17 +84,17 @@ h2{
 }
 
 .mission{
-    background-color: rgba(79, 157, 166, 0.1);
+    background-image: linear-gradient(#F2789F, #FAEDC6);
 
 }
 .vision{
-   background-color: rgba(255, 89, 89, 0.1);
+   background-image: linear-gradient(#9145B6, #F9C5D5);
 }
 .goal{
-    background-color:  #FFF4D6;;
+    background-image: linear-gradient(#FEE3EC, #F9C5D5);
 } 
 
-/* ********************* 2nd part CSS styling ends ************************ */
+/* ********************* 2nd and bonus part CSS styling ends ************************ */
 
 /* ********************* 3rd and 4th part CSS styling starts ************************ */
 .padding-h2{
@@ -124,10 +128,11 @@ font-weight: normal;
    
 }
 .footer-text{
-    color:#D9DBE1 ;
+    color:#CCD1E4 ;
      text-align: center;
      font-size: 14px;
 }
 .footer-span{
-    color: #FF5959;
+    color: #6998AB;
 }
+/* ********************* footer part CSS styling ends ************************ */
