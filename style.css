@@ -1,0 +1,39 @@
+body{
+    /* google-fonts CSS rule */
+    font-family: 'Poppins', sans-serif;
+}
+.double-div{
+    display: flex;
+   
+   
+}
+.half-width{
+    padding-left: 120px;
+}
+.half-width img{
+width: 70%; 
+}
+h1{
+    color: #414040;
+    font-size: 50px;
+    font-family: Yeseva One;
+    border-image: linear-gradient(#FF5959, #FF5959);
+    border-left: 5px solid;
+    border-image-slice: 1;
+    padding-left: 15px;
+ 
+}
+.h1-span{
+    color: #FFAD5A;
+    
+}
+p{
+    color: #3E3E3E;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-color:#FF5959;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
