@@ -1,6 +1,7 @@
 body{
     /* google-fonts CSS rule */
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 /* ********************* 1st part CSS styling statrs ************************ */
 .double-div{
@@ -91,13 +92,39 @@ h2{
 
 /* ********************* 2nd part CSS styling ends ************************ */
 
-/* ********************* 3rd part CSS styling starts ************************ */
+/* ********************* 3rd and 4th part CSS styling starts ************************ */
 .padding-h2{
     padding-left: 0;
     padding-right: 5%;
 }
 .double-div h2{
-    padding-right: 52%;
+    /* padding-right: 52%; */
     font-size: 38px;
     font-weight: 800;
+}
+
+/* ********************* 3rd and 4th part CSS styling ends ************************ */
+
+/* ********************* footer part CSS styling starts ************************ */
+footer{
+    background-color: black;
+    height: 190px;
+  
+
+}
+.footer-heading{
+   padding-top: 40px;
+    text-align: center;
+    font-family: 'Lobster', 'cursive';
+
+    color:#D9DBE1 ;
+    font-size: 36px;
+    font-style: normal;
+font-weight: normal;
+   
+}
+.footer-text{
+    color:#D9DBE1 ;
+     text-align: center;
+     font-size: 14px;
 }
