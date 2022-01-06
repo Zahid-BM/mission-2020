@@ -57,6 +57,7 @@ p{
 .tripple-div h2{
     text-align: center;
 }
+
 h2{
     font-family: Poppins;
     font-style: normal;
@@ -97,6 +98,25 @@ h3{
 /* ********************* 2nd and bonus part CSS styling ends ************************ */
 
 /* ********************* 3rd and 4th part CSS styling starts ************************ */
+.bg-01{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left 50px bottom 85px; ;
+    background-size: 190px 200px;
+  
+} 
+
+.bg-02{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right 70px top 260px;
+    background-size: 190px 190px;
+  padding-bottom: 60px;
+} 
+
+.global-margin{
+    margin-bottom: 0;
+}
 .padding-h2{
     padding-left: 0;
     padding-right: 5%;
